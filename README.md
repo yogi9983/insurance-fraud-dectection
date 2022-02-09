@@ -12,7 +12,8 @@ using encoding techniques i converted cateogoriacl values into numeric
 ![fraud3](https://user-images.githubusercontent.com/90147513/153155267-1f952211-01f3-4d40-ac2c-fdacb9f8c882.PNG)
 
 
-
+checked multicollinearty between independent features
+![fraud4](https://user-images.githubusercontent.com/90147513/153155947-e03febb4-b965-455b-9070-21b289b72dd6.PNG)
 
 
 
