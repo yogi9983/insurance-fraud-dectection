@@ -20,8 +20,8 @@ used support vector classifier and inorder to improve accuracy gridsearchcv used
 ![fraud5](https://user-images.githubusercontent.com/90147513/153156440-2467b10a-9cd3-434e-ae8f-d396aed769ad.PNG)
 
 
-
-
+for another cluster i used XGboost classifier and gridsearchcv  for good accuraccy
+![fraud6](https://user-images.githubusercontent.com/90147513/153157134-156142c4-5603-47c1-a28d-be7dd692846e.PNG)
 
 
 
